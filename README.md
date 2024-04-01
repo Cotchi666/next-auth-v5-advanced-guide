@@ -42,7 +42,7 @@ Key Features:
 
 ### Prerequisites
 
-**Node version 18.7.x**
+**Node version v18.17.0**
 
 ### Cloning the repository
 
